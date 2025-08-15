@@ -1,0 +1,10 @@
+# fastapi
+uvicorn
+celery
+redis
+pydantic
+pydantic-settings
+sqlalchemy
+psycopg2-binary
+# ... add other packages here
+
